@@ -2,7 +2,7 @@
 
 Authors: Mingyuan Zhang, Zhicheng Zhang, Yong Wang and Hao Wu
 
-The implementation and analysis scripts for the paper "Flow Matching for Optimal Reaction Coordinates of Biomolecular System". Currently under review, Arxiv preprint: https://arxiv.org/abs/2408.17139. 
+The implementation and analysis scripts for the paper "Flow Matching for Optimal Reaction Coordinates of Biomolecular System". Currently under review, arxiv preprint: https://arxiv.org/abs/2408.17139. 
 
 There are three folders under the main directory, each corresponding to the files and scripts for each model system to reproduce the results in the paper. The files in each folder are similar:
 
