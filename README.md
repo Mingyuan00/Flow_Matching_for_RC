@@ -1,5 +1,7 @@
 ### Flow Matching for Reaction Coordinates
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13474614.svg)](https://doi.org/10.5281/zenodo.13474614)
+
 Authors: Mingyuan Zhang, Zhicheng Zhang, Yong Wang and Hao Wu
 
 The implementation and analysis scripts for the paper "Flow Matching for Optimal Reaction Coordinates of Biomolecular System". Currently under review, arxiv preprint: https://arxiv.org/abs/2408.17139. 
