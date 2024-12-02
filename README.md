@@ -1,6 +1,6 @@
 ### Flow Matching for Reaction Coordinates
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13474614.svg)](https://doi.org/10.5281/zenodo.13474614)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14257538.svg)](https://doi.org/10.5281/zenodo.14257538)
 
 Authors: Mingyuan Zhang, Zhicheng Zhang, Yong Wang and Hao Wu
 
